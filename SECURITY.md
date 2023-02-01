@@ -7,7 +7,7 @@ Your efforts to responsibly disclose your findings are appreciated and will be t
 
 ## Supported Versions
 
-This versions of HospitalRun project are currently being supported with security updates......
+This versions of HospitalRun project are currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
