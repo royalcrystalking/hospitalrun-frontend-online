@@ -11,7 +11,7 @@
 
 React frontend for [HospitalRun](http://hospitalrun.io/): free software for developing world hospitals.
 
-------
+----------//////////
 
 # Are you a user? If yes...
 
