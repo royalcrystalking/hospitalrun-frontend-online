@@ -33,7 +33,7 @@ React frontend for [HospitalRun](http://hospitalrun.io/): free software for deve
 - How do I set up my local environment?
 - How do I run tests locally?
 - How do I submit my changes?
-- etc.
+- etc...
 
 # License
 
